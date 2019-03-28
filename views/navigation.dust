@@ -1,0 +1,8 @@
+<nav>
+    <ul>
+        <li><a href="/" id='links'>Login</a></li>
+        <li><a href="/homePage" id='links'>Home</a></li>
+        <li><a href="/hashtag" id='links'>View CSC365 Tweets</a></li>
+        <li><a href="/" id='links'>Logout</a></li>
+    </ul>
+</nav>

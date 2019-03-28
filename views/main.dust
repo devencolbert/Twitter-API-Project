@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Twitter Authentication Example</title>
+    <link  rel="stylesheet" href='/resources/css/style.css'>
+    <script src='/resources/js/root.js'></script>
+</head>
+
+<body>
+    <h1 id='mainHeader'>Sign in to Your Twitter Account</h1>
+    {>navigation /}
+    <a href="/auth/twitter" id='login'><img src="/resources/images/twitter_login.png" width="500"></a>
+</body>
+
+</html>
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+    <link  rel="stylesheet" href='/resources/css/style.css'>
+    <script src='/resources/js/root.js'></script>
+</head>
+
+<body>
+        {>user screen_name=user.screen_name /}
+    
+    {>navigation /}
+    <p><img src="/resources/images/welcome.jpeg" width="950"></p>
+    
+
+</body>
+
+</html>

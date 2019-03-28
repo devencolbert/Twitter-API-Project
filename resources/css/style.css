@@ -1,0 +1,59 @@
+li > a {
+    font-family: cursive;
+}
+
+h2 {
+    color: firebrick;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: slategrey;
+}
+
+.tweetsHeader {
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: circle;
+    padding-right: 15px;
+}
+
+a > img {
+    border-style: groove;
+    border-color: lavenderblush;
+    border-width: 10px;
+}
+
+p {
+    color: firebrick;
+}
+
+p > img {
+    border-right: solid;
+    border-left: solid;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: black;
+}
+
+#mainHeader {
+    color: white;
+    text-shadow: 8px 8px 16px #000000;
+    font-family: cursive;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+
+#tweetsNumber {
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+#fav {
+    border: hidden;
+}
